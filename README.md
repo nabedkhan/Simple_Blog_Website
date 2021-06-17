@@ -4,7 +4,7 @@
 
 ![screenshot](https://github.com/nabedkhan/Simple_Blog_Website/blob/master/screenshot.png)
 
-### View Live Demo:
+### View Live Demo: https://nabed-blog.netlify.app/
 
 ## Features
 
