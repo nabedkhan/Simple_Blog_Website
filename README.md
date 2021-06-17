@@ -2,7 +2,7 @@
 
 > This is a blog website built with the MERN stack.
 
-![screenshot]()
+![screenshot](https://github.com/nabedkhan/Simple_Blog_Website/blob/master/screenshot.png)
 
 ### View Live Demo:
 
